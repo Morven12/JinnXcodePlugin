@@ -1,4 +1,4 @@
-# Xcode 常用插件整理
+# Xcode-JinnPlugin
 ####Alcatraz - 插件管理
 https://github.com/alcatraz/Alcatraz
 ####FuzzyAutocomplete - 代码自动补全
@@ -17,5 +17,5 @@ https://github.com/onevcat/VVDocumenter-Xcode
 https://github.com/qfish/XAlign
 ####CocoaPods - Pods 插件
 https://github.com/CocoaPods/CocoaPods
-# 文件夹路径
+# Path
 /Users/{username}/Library/Application Support/Developer/Shared/Xcode/Plug-ins
