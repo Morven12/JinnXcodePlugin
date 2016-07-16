@@ -19,3 +19,5 @@ https://github.com/qfish/XAlign
 https://github.com/CocoaPods/CocoaPods
 # Path
 /Users/{username}/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+# Github
+https://github.com/jinnchang
