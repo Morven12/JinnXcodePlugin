@@ -18,6 +18,6 @@ https://github.com/qfish/XAlign
 ####CocoaPods - Pods 插件
 https://github.com/CocoaPods/CocoaPods
 # Path
-/Users/{username}/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+/Users/(username)/Library/Application Support/Developer/Shared/Xcode/Plug-ins
 # Github
 https://github.com/jinnchang
